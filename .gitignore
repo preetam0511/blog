@@ -1,0 +1,5 @@
+node_modules/
+.env
+blog.git
+playground-2.mongodb.js
+playground-3.mongodb.js
